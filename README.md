@@ -8,7 +8,7 @@ To work with this project:
 - clone it
 - start it with:
 ```
-docker-compose up
+make up
 ```
     
 -  try it at your browser by address
