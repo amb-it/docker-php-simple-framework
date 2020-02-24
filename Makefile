@@ -4,5 +4,5 @@ help:
 	@echo '--------------------'
 	@echo "make up"
 
-up
+up:
 	cd docker && docker-compose up
